@@ -10,7 +10,7 @@ private:
 public:
 	static long bankbalance;
     void openAccount()
-    {
+    {   cout<<"                             //// WELCOME TO THE BANK ////"<<endl;
         cout << "Enter Account Number:- ";
         cin >> acno;
         cout << "Enter Name:- ";
